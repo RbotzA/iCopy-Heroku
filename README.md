@@ -10,16 +10,16 @@
 [![Stars](https://img.shields.io/github/stars/Nenokkadine/FClone-Bot?style=flat-square&logo=appveyor)](https://github.com/Nenokkadine/FClone-Bot)  
 
 ## Running it Google Colab
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Godcic/iCopy-Heroku/blob/master/iCopy.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RbotzA/iCopy-Heroku/blob/master/iCopy.ipynb) 
  
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Godcic/iCopy-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/RbotzA/iCopy-Heroku/tree/master)
 
 iCopy Version - v0.2.2 (Only Web DashBoard)(NOT SUPPORT)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Godcic/iCopy-Heroku/tree/web)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/RbotzA/iCopy-Heroku/tree/web)
 
 Deploy Both If U wanna Use Web Dashboard and use the same config vars for Web one as the Bot one.
 
